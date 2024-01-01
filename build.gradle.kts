@@ -50,7 +50,7 @@ dependencies {
     implementation("com.github.ben-manes.caffeine:caffeine:3.1.8")
 
     // economy provider
-    compileOnly("com.github.MilkBowl:VaultAPI:1.7")
+    compileOnly("com.github.MilkBowl:VaultAPI:1.7.1")
 
     // database
     implementation("com.zaxxer:HikariCP:5.0.1")
