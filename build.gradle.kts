@@ -57,7 +57,7 @@ dependencies {
     implementation("com.j256.ormlite:ormlite-jdbc:6.1")
 
     // placeholders
-    compileOnly("me.clip:placeholderapi:2.11.3")
+    compileOnly("me.clip:placeholderapi:2.11.5")
 }
 java {
     sourceCompatibility = JavaVersion.VERSION_17
