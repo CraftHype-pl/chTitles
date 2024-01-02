@@ -28,7 +28,7 @@ dependencies {
     compileOnly("org.spigotmc:spigot-api:1.19-R0.1-SNAPSHOT")
 
     // messages
-    implementation("net.kyori:adventure-platform-bukkit:4.3.0")
+    implementation("net.kyori:adventure-platform-bukkit:4.3.2")
     implementation("net.kyori:adventure-text-minimessage:4.14.0")
 
     // configs
