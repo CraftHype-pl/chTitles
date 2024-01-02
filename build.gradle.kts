@@ -37,7 +37,7 @@ dependencies {
     }
 
     // database
-    implementation("com.zaxxer:HikariCP:5.0.1")
+    implementation("com.zaxxer:HikariCP:5.1.0")
     implementation("com.j256.ormlite:ormlite-jdbc:6.1")
 
     // LuckPerms
@@ -53,7 +53,7 @@ dependencies {
     compileOnly("com.github.MilkBowl:VaultAPI:1.7")
 
     // database
-    implementation("com.zaxxer:HikariCP:5.0.1")
+    implementation("com.zaxxer:HikariCP:5.1.0")
     implementation("com.j256.ormlite:ormlite-jdbc:6.1")
 
     // placeholders
