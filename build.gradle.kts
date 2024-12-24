@@ -29,7 +29,7 @@ dependencies {
 
     // messages
     implementation("net.kyori:adventure-platform-bukkit:4.3.0")
-    implementation("net.kyori:adventure-text-minimessage:4.14.0")
+    implementation("net.kyori:adventure-text-minimessage:4.18.0")
 
     // configs
     implementation("net.dzikoysk:cdn:1.14.4") {
